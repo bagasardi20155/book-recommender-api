@@ -1,0 +1,12 @@
+/__pycache__
+/recommender-env
+/artifacts/book_pivot_table.pkl
+/artifacts/books_title.pkl
+/artifacts/final_rating.pkl
+/artifacts/model.pkl
+/dataset/books.csv
+/dataset/ratings.csv
+/dataset/users.csv
+/src.egg-info
+/.idea
+/.vscode
